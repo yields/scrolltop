@@ -1,0 +1,13 @@
+{
+  "name": "scrolltop",
+  "repo": "yields/scrolltop",
+  "description": "get the window's scrolltop value.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
