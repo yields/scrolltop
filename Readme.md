@@ -9,7 +9,9 @@
 
 ## API
 
-   
+### scrolltop()
+
+get the window's current scrolltop value.
 
 ## License
 
